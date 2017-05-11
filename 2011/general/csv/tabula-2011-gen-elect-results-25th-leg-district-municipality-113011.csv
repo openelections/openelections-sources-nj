@@ -1,8 +1,8 @@
 "","Anthony ""Tony"" BuccoRepublican"g","Rick ThoeniDemocratic","Michael Patrick CarrollRepublican","Anthony M. BuccoRepublican","George StaffordDemocratic","Gale Heiss ColucciDemocratic",
 SOMERSET COUNTY,,,,,,,
 Bernardsville Boro,"1,112",498,"1,078","1,071",514,501,
-Vote By Mail Total,84,33,78,79,36,35,
-Provisionals Total,5,6,3,4,6,7,
+Vote By Mail,84,33,78,79,36,35,
+Provisional Ballots,5,6,3,4,6,7,
 COUNTY TOTAL,"1,201",537,"1,159","1,154",556,543,
 MORRIS COUNTY,,,,,,,
 Boonton Town,689,404,646,631,407,420,
@@ -25,7 +25,7 @@ Roxbury Twp.,"1,856","1,115","1,798","1,781","1,122","1,134",
 Victory Gardens Boro,30,61,23,32,58,56,
 Washington Twp.,"1,735",932,"1,748","1,673",920,936,
 Wharton Boro,367,302,340,337,314,315,
-Vote By Mail Total,,,,,,,
-Provisionals Total,,,,,,,
+Vote By Mail,,,,,,,
+Provisional Ballots,,,,,,,
 COUNTY TOTAL,"18,027","11,761","17,322","17,064","11,876","12,021",
 DISTRICT TOTAL,"19,228","12,298","18,481","18,218","12,432","12,564",
