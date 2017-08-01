@@ -9369,7 +9369,7 @@
                 <Precinct name="Winfield Overseas" votes="0" />
             </VoteType>
         </Choice>
-        <Choice key="4" text="Non - Dan O’NEILL" totalVotes="659">
+        <Choice key="4" text="Non - Dan O'NEILL" totalVotes="659">
             <VoteType name="Election" votes="659">
                 <Precinct name="Berkeley Heights District 1" votes="4" />
                 <Precinct name="Berkeley Heights District 2" votes="10" />
