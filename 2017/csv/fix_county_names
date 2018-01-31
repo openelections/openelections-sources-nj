@@ -1,0 +1,25 @@
+#!/bin/bash
+
+sed -i '.bak' 's/ATLANTIC,/ATLANTIC COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/BERGEN,/BERGEN COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/BURLINGTON,/BURLINGTON COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/CAMDEN,/CAMDEN COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/CAPE MAY,/CAPE MAY COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/CUMBERLAND,/CUMBERLAND COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/ESSEX,/ESSEX COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/GLOUCESTER,/GLOUCESTER COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/HUDSON,/HUDSON COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/HUNTERDON,/HUNTERDON COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/MERCER,/MERCER COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/MIDDLESEX,/MIDDLESEX COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/MONMOUTH,/MONMOUTH COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/MORRIS,/MORRIS COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/OCEAN,/OCEAN COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/PASSAIC,/PASSAIC COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/SALEM,/SALEM COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/SOMERSET,/SOMERSET COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/SUSSEX,/SUSSEX COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/UNION,/UNION COUNTY,/g' tabula*senate*.csv
+sed -i '.bak' 's/WARREN,/WARREN COUNTY,/g' tabula*senate*.csv
+
+sed -i '.bak' '/\"\",,,,/d' tabula-2017-general-election-results-gen-assembly-state-senate-district-*.csv
