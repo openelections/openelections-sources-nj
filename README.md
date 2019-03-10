@@ -3,7 +3,7 @@ Original results source documents for New Jersey elections
 
 # Sources by County
 
-- [Bergen](http://www.bergencountyclerk.org/elections/#eRes)
+- [Bergen](http://www.bergencountyclerk.org/Election/)
 - [Essex](http://www.essexclerk.com/Election/) (No Results by Precinct)
 - [Middlesex](http://mcgisweb.co.middlesex.nj.us/elections/)
 - [Hudson](http://www.hudsoncountyclerk.org/election-archives/)
